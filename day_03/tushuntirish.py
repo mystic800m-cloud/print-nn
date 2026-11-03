@@ -14,8 +14,9 @@
 # 4 - git config --global user.name - kim o'zgartirish kiritayotganini tekshirish
 # 5  - git config --global user.email - emaili
 # 6 - git status - qaysi fayllarda o'zgarish bo'lganini ko'rsatadi 
-# 7 - dit add - belgilanga fayllardagi o'zgarishlarni stage area ga jo'natadi
+# 7 - git add - belgilanga fayllardagi o'zgarishlarni stage area ga jo'natadi
 # 8 - git commit - tanlangan o'zgarishlarni Git tarixida saqlaydi
+# 9 git log --oneline
 
 
 #5) .gitignore - .venv; .env; - githubga chiqmaydigon ma'lumotlarni saqlash
